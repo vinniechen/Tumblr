@@ -6,4 +6,5 @@ Tumblr application. Users can view photos from tumblr posts and show/hide captio
 Lab 1
 <img src='https://i.imgur.com/ZfLU4BI.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 Lab 2
+https://i.imgur.com/veB41GD.gif
 <img src='https://i.imgur.com/veB41GD.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
